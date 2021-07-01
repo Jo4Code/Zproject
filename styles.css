@@ -11,6 +11,10 @@ body {
     background: url(img/send.jpg)
 }
 
+.links {
+    background-color: #9C27B0;
+}
+
 .container {
     position: fixed;
     text-align: center;
